@@ -12,4 +12,6 @@ Projeto de Estudo da trilha de Front-End do ONE
  - Metodologia Atomic Design
  - Padrão para nomear as classes do CSS
  - Metodologia BEM
+ - Separação de responsabilidades
+ - Criar e manter arquivos menores
  
