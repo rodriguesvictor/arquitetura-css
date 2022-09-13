@@ -14,4 +14,5 @@ Projeto de Estudo da trilha de Front-End do ONE
  - Metodologia BEM
  - Separação de responsabilidades
  - Criar e manter arquivos menores
+ - Responsividade no layout
  
